@@ -15,7 +15,11 @@ A simple **CRUD (Create, Read, Update, Delete)** note-taking app built with **Je
 - [Material3]
 - State management with `remember` and `mutableStateOf`
 
-## 🚀 Getting Started
+## 📸 Screenshots
+
+![UI](drawable/crud1.jpg) ![UI](drawable/crud2.jpg)
+
+
 
 ### Prerequisites
 - Android Studio Hedgehog or later
