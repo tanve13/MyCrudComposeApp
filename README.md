@@ -17,7 +17,7 @@ A simple **CRUD (Create, Read, Update, Delete)** note-taking app built with **Je
 
 ## 📸 Screenshots
 
-![UI](drawable/crud1.jpg) ![UI](drawable/crud2.jpg)
+![UI](screenshots/crud1.jpg) ![Edit](screenshots/crud2.jpg)
 
 
 
