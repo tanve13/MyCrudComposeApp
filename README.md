@@ -16,8 +16,9 @@ A simple **CRUD (Create, Read, Update, Delete)** note-taking app built with **Je
 - State management with `remember` and `mutableStateOf`
 
 ## 📸 Screenshots
-
-![UI](screenshots/crud1.jpg) ![Edit](screenshots/crud2.jpg)
+| UI Screen | Edit Click | 
+|-----------|-----------|
+|![UI](screenshots/crud1.jpg) | ![Edit](screenshots/crud2.jpg)|
 
 
 
